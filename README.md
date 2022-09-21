@@ -1,2 +1,2 @@
-# Excel-Interactive-Dashboard
+# Excel Interactive Dashboard
 coffee shop financial analysis
